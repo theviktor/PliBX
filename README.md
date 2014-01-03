@@ -12,4 +12,4 @@ Stuff we will be using to develop:
 * Some cool template from themeforest.
 
 
-We may use php only to build an API backend and use AngularJS for the frontend, but lets see :)
+We may use php only to build an API backend and use AngularJS for the frontend, but lets see :), the plivo helper library depends upon the HTTP_Request2 perl package we need a way to include it by default, not all hostings have it installed or enabled...
